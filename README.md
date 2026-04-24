@@ -8,6 +8,7 @@ According to ZMK's [power profiler](https://zmk.dev/power-profiler) we should ge
 ![Schematic](images/schematic.png)
 ![PCB](images/pcb.png)
 ![Full PCB render](images/render.png)
+![Case + PCB render](images/fullrender.png)
 
 ## Repo Structure
 CAD files in `cad/`
