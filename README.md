@@ -27,5 +27,5 @@ https://grabcad.com/library/dsa-keycap-for-cherry-mx-switches-1
 
 ## Cost
 BOM: 17.38 USD
-PCB: 2 USD + 1.5 USD shipping
-Total: 20.88 USD
+PCB: 4 USD + 1.5 USD shipping
+Total: 22.88 USD
