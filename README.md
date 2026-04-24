@@ -15,6 +15,7 @@ KiCad design files in `PCB/`
 Production gerbers in `PCB/gerbers`
 Firmware in `firmware/`
 BOM at `bom.csv`
+Case Onshape design [here](https://cad.onshape.com/documents/916857c7e80611f775a72b60/w/b9c69dbfc296334dd1ffd629/e/9b910e13e67ad3b8cb3a877d?renderMode=0&uiState=69eb64186156e8d7dafdc7be)
 
 ## 3D Models
 https://grabcad.com/library/oled-0-91-128x32-1
