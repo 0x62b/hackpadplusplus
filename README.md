@@ -1,7 +1,8 @@
 # Hackpad++
 6-key hot-swappable RGB backlit macropad based on Seeed Studio Xiao NRF52840. Uses ZMK for firmware.
-400mAh battery, supports wireless BLE HID operation. I made this to learn more about ZMK for my [keyboard](https://github.com/0x62b/YetAnotherKeyboard)
-project.
+400mAh battery, supports wireless BLE HID operation. I made this to use up some spare parts and learn more about ZMK.
+
+Rn the firmware is in a really really really stripped down state because I want to get the physical thing before trying to make more firmware since it keeps breaking the build
 
 According to ZMK's [power profiler](https://zmk.dev/power-profiler) we should get about 21 hours of battery life with the RGB at 20% brightness
 
