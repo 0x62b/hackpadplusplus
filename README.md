@@ -27,6 +27,16 @@ https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1
 https://grabcad.com/library/11mm-metal-shaft-rotary-encoders-tht-vertical-w-push-on-switch-1
 https://grabcad.com/library/dsa-keycap-for-cherry-mx-switches-1
 
+# Assembly
+Prerequisites: solder the PCB and print the case
+1. put switches into sockets
+2. put PCB assembly into bottom case
+3. put top case over the assembly
+4. screw in the top case with M3 screws
+5. attach keycaps to switches
+6. flash firmware according to ZMK docs
+7. yay
+
 ## Cost
 BOM: 17.38 USD
 PCB: 4 USD + 1.5 USD shipping
