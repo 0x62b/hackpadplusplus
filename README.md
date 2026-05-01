@@ -60,3 +60,6 @@ Total: 22.88 USD
 ![Full PCB render](images/render.png)
 ### Full render
 ![Case + PCB render](images/fullrender.png)
+### Zine page
+<img width="678" height="1036" alt="image" src="https://github.com/user-attachments/assets/c2d942b1-6a2a-4b26-bdfe-93640b7ac768" />
+
